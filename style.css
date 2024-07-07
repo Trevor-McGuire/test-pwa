@@ -84,3 +84,13 @@ code {
 code.image {
 	background-color: lightyellow;
 }
+
+.digital-clock { 
+  font-size: 3em; /*To change the size of the numbers*/
+  max-width: 250px;  /*To change the widt of the clock*/
+  text-align: center; 
+  border: 2px solid black; /*To change the border around the clock*/
+  border-radius: 20px; /*To change how round the edges are*/
+  background-color: white; /*To change the background color of the clock*/
+  color: black; /*To change the color of the numbers*/
+}
